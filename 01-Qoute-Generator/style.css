@@ -1,3 +1,5 @@
+/* remember to add hero patterns */
+/* Look for cyberpunk font */
 
 html {
   box-sizing: border-box;
@@ -6,4 +8,14 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
+  background: #fff;
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+
